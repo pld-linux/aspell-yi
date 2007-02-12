@@ -1,5 +1,5 @@
 Summary:	Yidish dictionary for aspell
-Summary(pl.UTF-8):   Słownik jidysz dla aspella
+Summary(pl.UTF-8):	Słownik jidysz dla aspella
 Name:		aspell-yi
 Version:	0.01.1
 %define	subv	1
