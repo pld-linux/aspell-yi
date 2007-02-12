@@ -1,5 +1,5 @@
 Summary:	Yidish dictionary for aspell
-Summary(pl):	S≥ownik jidysz dla aspella
+Summary(pl.UTF-8):   S≈Çownik jidysz dla aspella
 Name:		aspell-yi
 Version:	0.01.1
 %define	subv	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Yidish dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik jidysz (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik jidysz (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell6-yi-%{version}-%{subv}
